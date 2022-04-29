@@ -1,0 +1,38 @@
+.about{
+    background-image:url(../img/about2.jpg) ;
+    width: 75%;
+    background-size: cover;
+    
+    height: 40vh;
+    border-radius: 40px;
+    margin-left: 12%;
+    margin: 2px auto;
+}
+.text_3 h3{
+    
+    color: white ;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 32%;
+    margin-top: 90px;
+}
+.about_text{
+    text-align: center;
+    
+    margin: 30px auto;
+}
+.text_2{
+    color: #1e3391;
+}
+.d{
+    text-align: center;
+    font-size: 20px;
+}
+.aboutimg{
+    margin-left: 20px  !important;
+}
+
+
+.card-text{
+    text-align: justify !important;
+}

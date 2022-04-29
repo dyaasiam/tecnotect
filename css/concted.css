@@ -1,0 +1,33 @@
+.raslna{
+    position: absolute;
+    width: 35%;
+    left: 60%;
+    margin-top: 120px;
+    box-shadow:  0 0 5px rgba(0, 0,0, .30);
+    border-radius: 10px;
+}
+.text_3{
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #1e3391;
+
+}
+.techer_img{
+    width: 100px;
+    position:  absolute;
+    top: 60px;
+    right: 110px;
+    border-radius: 20px;
+
+}
+.text h3,h4{
+    color: #1e3391;
+}
+p{
+    color: #1e3391;
+    margin-right: 14px;
+}
+.telphon{
+    margin-right: 20px;
+}
+
